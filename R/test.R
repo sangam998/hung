@@ -1,6 +1,6 @@
 #' A Cat Function
 #'
-#' This function allows you to express your love of catssssssss.
+#' This function allows you to express your love of catssssssss and birds.
 #' @param love Do you love cats? Defaults to TRUE.
 #' @keywords cats
 #' @export

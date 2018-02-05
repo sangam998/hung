@@ -10,7 +10,7 @@ cat_functionn(love = TRUE)
 \item{love}{Do you love cats? Defaults to TRUE.}
 }
 \description{
-This function allows you to express your love of catssssssss.
+This function allows you to express your love of catssssssss and birds.
 }
 \examples{
 cat_function()
